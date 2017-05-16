@@ -3,15 +3,3 @@ h1{
   font-size:60px;
   font-style: italic;
 }
-#{
-  color: pink;
-}
-#{
-  height:100Spx;
-  width:800px;
-}
-p{
-  color: blue;
-  font-style: oblique;
-  font-size: 100px
-}
