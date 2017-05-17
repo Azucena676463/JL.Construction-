@@ -8,6 +8,13 @@ p{
   font-size: 50px;
   font-style: oblique;
 }
+p1{
+  color: blue;
+  font-size: 40px;
+  font-stretch: semi-condensed;
+  font-style: oblique;
+  font-family: fantasy;
+}
 h2{
   color: green;
   font-size: 60px;
